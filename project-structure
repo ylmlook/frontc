@@ -1,0 +1,25 @@
+login-app/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Login/
+│   │   │   ├── Login.jsx
+│   │   │   └── Login.css
+│   │   ├── Dashboard/
+│   │   │   ├── Dashboard.jsx
+│   │   │   └── Dashboard.css
+│   │   └── common/
+│   │       ├── Navbar.jsx
+│   │       └── Navbar.css
+│   ├── services/
+│   │   └── auth.service.js
+│   ├── utils/
+│   │   └── validateInput.js
+│   ├── context/
+│   │   └── AuthContext.js
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+└── package.json 
